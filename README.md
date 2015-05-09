@@ -10,7 +10,7 @@ Python GUI implementation of board game [Fanorona](http://en.wikipedia.org/wiki/
 
 <br>
 ## Design Strategies Used:<br>
-1. **Cutoff**:<br> I used cutoff setting a maximal depth limit (15 in 3X3, 7 in 5X5), when min_value function is called at this depth level, it will return with an utility value for the board positions estimated by evaluation function.
+1. **Cutoff**:<br> I used cutoff setting a maximal depth limit (15 in 3X3, 7 in 5X5), when min_value function is called at this depth level, it will return with a utility value for the board positions estimated by evaluation function.
 2. **Heuristic Evaluation Function for AI**:<br> It is defined as:
 (#AI_piece - #human_piece) / (#AI_piece + human_piece)<br>
 But considering special positions where a piece can move towards 8 directions, which indicating positional attacking advantages, so if a AI_piece is on such position, it will be counted as 1.5 piece, if a human_piece is on such position, it will be counted as 0.5 human_piece.<br>
