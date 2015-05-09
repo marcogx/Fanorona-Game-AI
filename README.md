@@ -16,7 +16,9 @@ Python GUI implementation of board game [Fanorona](http://en.wikipedia.org/wiki/
 3. When an opponent’s piece is captured, all consecutive opponent pieces that lie along the line beyond that piece are captured as well.
 4. Capturing moves are mandatory and have to be played in preference to non-capturing moves.
 
-
+## Installation
+It is implemented with Python 2.7, Pygame 1.9.1, when you install these 2 things in computer, simply type command: python Fanorona_5X5.py or python Fanorona_3X3.py <br>
+Enjoy~!
 
 ## Author<br>
 Guang XIONG  gx239@nyu.edu
