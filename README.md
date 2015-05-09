@@ -1,5 +1,4 @@
 # Fanorona-Game-AI
-<br>
 Python GUI implementation of board game [Fanorona](http://en.wikipedia.org/wiki/Fanorona) between human and AI using [Alpha-Beta-Search](http://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning) and [Heuristics Evaluation Function](http://en.wikipedia.org/wiki/Heuristic_%28computer_science%29). 
 
 ## Snapshots
@@ -26,8 +25,6 @@ But considering special positions where a piece can move towards 8 directions, w
 ## Installation
 It is implemented with Python 2.7, Pygame 1.9.1, when you install these 2 things in computer, simply type command: python Fanorona_5X5.py OR python Fanorona_3X3.py <br>
 Enjoy~!
-
-
 
 ## Author<br>
 Guang XIONG  gx239@nyu.edu
