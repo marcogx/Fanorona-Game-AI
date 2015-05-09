@@ -4,6 +4,6 @@ Python GUI implementation of board game [Fanorona](http://en.wikipedia.org/wiki/
 ## Snapshots
 <img src="./snapshots/1.png" width="400px" height="500px" />
 <img src="./snapshots/1-5.png" width="400px" height="500px" />
-<img src="./snapshots/2.png" width="500px" height="500px" />
-<img src="./snapshots/3.png" width="500px" height="500px" />
-<img src="./snapshots/4.png" width="500px" height="500px" />
+<img src="./snapshots/2.png" width="400px" height="500px" />
+<img src="./snapshots/3.png" width="400px" height="500px" />
+<img src="./snapshots/4.png" width="400px" height="500px" />
