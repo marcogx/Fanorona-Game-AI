@@ -7,7 +7,7 @@ Python GUI implementation of board game [Fanorona](http://en.wikipedia.org/wiki/
 <br><img src="./snapshots/2.png" width="400px" height="400px" />
 <img src="./snapshots/3.png" width="400px" height="400px" />
 <br><img src="./snapshots/4.png" width="400px" height="400px" />
-
+<img src="./snapshots/33.png" width="400px" height="400px" />
 
 
 ## Author<br>
