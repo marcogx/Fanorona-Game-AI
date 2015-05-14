@@ -26,5 +26,9 @@ But considering special positions where a piece can move towards 8 directions, w
 It is implemented with Python 2.7, Pygame 1.9.1, when you install these 2 things in computer, simply type command: python Fanorona_5X5.py OR python Fanorona_3X3.py <br>
 Enjoy~!
 
+## Video Demo<br>
+
+[![demo video,pls contact Author](http://img.youtube.com/vi/NJjosQvmCIA/0.jpg)](http://www.youtube.com/watch?v=NJjosQvmCIA)
+
 ## Author<br>
 Guang XIONG  gx239@nyu.edu
